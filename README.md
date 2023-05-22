@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Marcus</h1>
-<h3 align="center">Civil engineer heading to programming!</h3>
+<h3 align="center">Civil engineer heading to programming 💻⚙️ </h3>
 
 
 - 🌱 I’m currently learning about HTML, CSS, Javascript, APIs and frameworks.
