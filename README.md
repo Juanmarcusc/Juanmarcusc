@@ -2,7 +2,7 @@
 <h3 align="center">Civil engineer heading to programming 💻⚙️ </h3>
 
 
-👨‍💼Civil Engineer and Front-End Developer 🛠️ passionate about technology, bridging the gap between the physical and digital world. 💻 With experience in HTML, CSS, JavaScript, TypeScript, and React, I'm always seeking creative challenges to shape the future of the web🚀
+👨‍💼Civil Engineer and Front-End Developer 🛠️ passionate about technology, bridging the gap between the physical and digital world. 💻  I'm always seeking creative challenges to shape the future of the web.🚀
 
 🥋 Besides technology, I am a first-degree black belt in Kung Fu 🥋, finding balance and discipline in every move. 💪
 
