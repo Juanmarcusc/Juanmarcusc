@@ -2,10 +2,13 @@
 <h3 align="center">Civil engineer heading to programming 💻⚙️ </h3>
 
 
-- 🌱 I’m currently learning about HTML, CSS, Javascript, APIs and frameworks.
-- 📫 How to reach me: eng.juanmarcus@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've been practicing kung fu for 16 years, addicted to games, anime and series. ☯️🎮🐉
+"👨‍💼 Civil Engineer and Front-End Developer 🛠️ passionate about technology, bridging the gap between the physical and digital world. 💻 With experience in HTML, CSS, JavaScript, TypeScript, and React, I'm always seeking creative challenges to shape the future of the web. 🚀
+
+🥋 Besides technology, I'm a Martial Arts Practitioner 🥋, finding balance and discipline in every move. 💪
+
+👨‍👦 And when I'm not immersed in the world of development, I'm a full-time dedicated father, teaching, learning, and creating unforgettable moments with my family. 👨‍👩‍👧‍👦
+
+Follow my journey here and join me in this path of constant growth and evolution! 🌟 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
