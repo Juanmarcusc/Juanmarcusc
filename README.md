@@ -21,8 +21,8 @@ Follow my journey here and join me in this path of constant growth and evolution
   <img align="center" alt="Juan-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Juan-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juan-Ts" height="50" width="60" 
-scr="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+scr="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
    <img align="center" alt="Juan-React" height="50" width="60" 
-scr="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+scr="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
 
 </div>
