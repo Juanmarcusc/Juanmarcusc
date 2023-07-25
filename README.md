@@ -18,6 +18,6 @@ Follow my journey here and join me in this path of constant growth and evolution
 <h3>Experiences:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=js,html,css,ts,react" />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
   </a>
 </p>
