@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Marcus</h1>
-<h3 align="center">Civil engineer heading to programming 💻⚙️ </h3>
-
-
-👨‍💼Civil Engineer and Front-End Developer 🛠️ passionate about technology, bridging the gap between the physical and digital world. 💻  I'm always seeking creative challenges to shape the future of the web.🚀
-
-🥋 Besides technology, I am a first-degree black belt in Kung Fu 🥋, finding balance and discipline in every move. 💪
-
-👨‍👦 And when I'm not immersed in the world of development, I'm a full-time dedicated father, teaching, learning, and creating unforgettable moments with my family. 👨‍👩‍👧‍👦
+<h1>Desenvolvedor Front-end</h1>
+<p>Desenvolvedor em formação, com 28 anos e experiência em atendimento ao cliente. Atualmente me dedico ao aprendizado de JavaScript, React, TypeScript e Python. Possuo forte interesse em aprimorar minhas habilidades e explorar novas tecnologias. Procuro um ambiente desafiador que me permita crescer profissionalmente e contribuir para projetos inovadores.</p>
 
 
 
