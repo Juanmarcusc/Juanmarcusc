@@ -11,6 +11,6 @@
 <h3>Experiences:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react,python" />
   </a>
 </p>
